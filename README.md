@@ -6,7 +6,7 @@ My Portfolio Website
 ![alt text](https://github.com/zahidulsifat/Portfolio/blob/main/Portfolio.PNG)
 
 ### Mobile View
-![alt text](https://github.com/zahidulsifat/Portfolio/blob/main/Portfolio_mobile.PNG)
+![Mobile View](https://github.com/zahidulsifat/Portfolio/blob/main/Portfolio_mobile.PNG)
 
 ## Author
 * Zahidul Sifat
