@@ -6,7 +6,7 @@ My Portfolio Website
 ![Computer View](https://github.com/zahidulsifat/Minimalfolio/blob/master/Portfolio.PNG)
 
 ### Mobile View
-![Mobile View](https://github.com/zahidulsifat/Portfolio/blob/main/Portfolio_mobile.PNG)
+![Mobile View](https://github.com/zahidulsifat/Minimalfolio/blob/master/Portfolio_mobile.PNG)
 
 ## Author
 * Zahidul Sifat
