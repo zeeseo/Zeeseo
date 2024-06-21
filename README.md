@@ -1,12 +1,14 @@
 # Portfolio
-My website portfolio
+My Portfolio Website
 
 ## Screenshots:
 ### Computer View
-![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio.PNG)
+![Computer View](https://github.com/zahidulsifat/Minimalfolio/blob/master/Portfolio.PNG)
 
 ### Mobile View
-![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio_mobile.PNG)
+![Mobile View](https://github.com/zahidulsifat/Minimalfolio/blob/master/Portfolio_mobile.PNG)
 
 ## Author
-* Mohd. Ali Solanki (https://youtube.com/AliSolanki)
+* Zahidul Sifat
+## Base Author
+* Ali Solanki
