@@ -3,7 +3,7 @@ My Portfolio Website
 
 ## Screenshots:
 ### Computer View
-![alt text](https://github.com/zahidulsifat/Portfolio/blob/main/Portfolio.PNG)
+![Computer View](https://github.com/zahidulsifat/Minimalfolio/blob/master/Portfolio.PNG)
 
 ### Mobile View
 ![Mobile View](https://github.com/zahidulsifat/Portfolio/blob/main/Portfolio_mobile.PNG)
